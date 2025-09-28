@@ -58,3 +58,29 @@ Key features of this automation:
    ```bash
    git clone https://github.com/gitxudan/DEA_Automation_Report.git
    cd DEA_Automation_Report
+
+📈 Example Output
+
+Efficiency scores per branch (0–1 scale)
+
+Identification of efficient vs. inefficient branches
+
+Excel report with data, LP model results, and charts
+
+📌 Notes
+
+Original input data format follows DEA.txt convention:
+
+First line: input variable names
+
+Second line: output variable names
+
+Each branch: name, input values, output values
+
+Project is for educational and portfolio purposes.
+
+🔗 Author
+
+GitHub: gitxudan
+
+Contact: xudanbetsy@gmail.com
