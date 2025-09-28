@@ -1,0 +1,27 @@
+Faculty,Support Staff,Supply Budget
+
+Credit Hours,Research Pubs
+
+Business
+
+150,70,5
+
+15.0,225
+
+Education
+
+60,20,3
+
+5.4,70
+
+Arts & Sciences
+
+800,140,20
+
+56.0,1300
+
+HPER
+
+30,15,1
+
+2.1,40
